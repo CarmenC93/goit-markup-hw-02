@@ -6,6 +6,32 @@ body {
     background-color: #FFFFFF;
 }
 
+.navigation-container {
+    background-color: #FFFFFF;
+}
+
+.logo {
+font-family: "Raleway", sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #4D5AE5;
+
+}
+
+.header-logo {
+font-family: "Raleway", sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+color:#2E2F42;
+
+}
+
 .header-link {
 font-family: Roboto;
 font-size: 16px;
@@ -145,6 +171,16 @@ color: #2E2F42;
     background-color: #2E2F42;
  }
 
+ .footer-logo{
+font-family: "Raleway", sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #F4F4FD;
+
+ }
  .footer-text {
 font-weight: 400;
 line-height: 24px;
