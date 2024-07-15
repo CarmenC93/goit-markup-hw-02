@@ -1,0 +1,134 @@
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+}
+
+.header-link {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+color:#2E2F42;
+
+}
+
+.adress-link {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+
+}
+
+.hero-section {
+    background-color: #2E2F42;
+
+}
+
+.hero-title {
+font-size: 56px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+}
+
+.button-text {
+
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.04em;
+color: #FFFFFF;
+cursor: pointer;
+
+}
+
+.description-title {
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+
+}
+ .description-text {
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+
+ }
+
+ .section-team {
+    background-color: #F4F4FD;
+ }
+
+ .title-team {
+font-size: 36px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.02em;
+color:#2E2F42;
+
+ }
+
+ .image-title {
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+
+ }
+
+ .image-text {
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+
+ }
+ .title-portfolio {
+font-size: 36px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+
+ }
+
+ .product-subtitle {
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+
+ }
+
+ .product-description {
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #2E2F42;
+
+ }
+
+ .footer-section {
+    background-color: #2E2F42;
+ }
+
+ .footer-text {
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #F4F4FD;
+
+ }
